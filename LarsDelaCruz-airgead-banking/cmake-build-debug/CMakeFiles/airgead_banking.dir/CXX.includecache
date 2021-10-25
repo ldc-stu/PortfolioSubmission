@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lars72/CLionProjects/airgead-banking/Calculations.cpp
+vector
+-
+iostream
+-
+Calculations.h
+/Users/lars72/CLionProjects/airgead-banking/Calculations.h
+InvestmentInfo.h
+/Users/lars72/CLionProjects/airgead-banking/InvestmentInfo.h
+
+/Users/lars72/CLionProjects/airgead-banking/Calculations.h
+vector
+-
+DataInput.h
+/Users/lars72/CLionProjects/airgead-banking/DataInput.h
+InvestmentInfo.h
+/Users/lars72/CLionProjects/airgead-banking/InvestmentInfo.h
+
+/Users/lars72/CLionProjects/airgead-banking/DataInput.h
+vector
+-
+
+/Users/lars72/CLionProjects/airgead-banking/InvestmentInfo.h
+vector
+-
+
